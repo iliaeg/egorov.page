@@ -1,2 +1,2 @@
 # egorov.page
-Personal portfolio
+Business card website
